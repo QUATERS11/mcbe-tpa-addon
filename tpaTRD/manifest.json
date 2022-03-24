@@ -1,0 +1,66 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§aTPA §r§dAdd§7-§5on",
+    "description": "§eAdds TPA Commands to your game. Requires GameTest.\n§aCreatetd By THErealDIVIJ\n§bDiscord Tag: Ƭ卄Σ ᚱ𐌄𐌀𐌋 ᗪÏᐯÏᒎ#5638 \n§bDiscord Server: https://discord.gg/adJEaZts",
+    "uuid": "88371644-b750-4e92-b89f-96f1064899b9",
+    "version": [
+      0,
+      2,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "221c24bd-5001-47b8-afa3-4c11840491da",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "javascript",
+      "uuid": "69b6d66f-2b4f-4c63-ad53-43c8328464db",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "THErealDIVIJ"
+    ],
+    "url": "https://github.com/QUATERS11",
+    "license": "MIT"
+  },
+  "dependencies": [
+    {
+      "description": "Minecraft module, required to use the Minecraft module",
+      "uuid": "90745164-8dd9-422e-8d53-d3fe76547064",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "description": "GameTest module, required to use the GameTest module",
+      "uuid": "8d03198f-5973-4bc6-af87-c35a643634ea",
+      "version": [
+        0,
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -2,24 +2,24 @@
 <h3 style="font-weight:bold;color:gray;">Commands:</h3>
 <ul style="list-style-type:none;">
     <li>
-        <strong>!</strong>tpahelp | Used to get all available commands or infomation about a specific command.
+        <strong>t!</strong>tpahelp | Used to get all available commands or infomation about a specific command.
     </li>
     <li>
-        <strong>!</strong>tpasend | Sends tpa request to the specified player you want to teleport to.
+        <strong>t!</strong>tpasend | Sends tpa request to the specified player you want to teleport to.
     </li>
     <li>
-        <strong>!</strong>tpaaccept | Used to accept an incoming tpa request.
+        <strong>t!</strong>tpaaccept | Used to accept an incoming tpa request.
     </li>
     <li>
-        <strong>!</strong>tpadecline | Used to decline incoming tpa requests.
+        <strong>t!</strong>tpadecline | Used to decline incoming tpa requests.
     </li>
 </ul>
 <ul style="list-style-type:none;">
     <li>
-        <strong>!</strong>tpaadmin | This command allows an admin to tp everyone to his location, teleport someone to his location or tp to a players location, without op permissions.
+        <strong>t!</strong>tpaadmin | This command allows an admin to tp everyone to his location, teleport someone to his location or tp to a players location, without op permissions.
     </li>
     <li>
-        <strong>!</strong>tpaconfig | This command can be used by admins, to change tpa configurations. Like: <strong>commandPrefix</strong>, <strong>Expiration Time</strong> and <strong>tpaAcceptUI</strong>.
+        <strong>t!</strong>tpaconfig | This command can be used by admins, to change tpa configurations. Like: <strong>commandPrefix</strong>, <strong>Expiration Time</strong> and <strong>tpaAcceptUI</strong>.
     </li>
 </ul>
 <br />
@@ -67,3 +67,4 @@
             */
 
 </ul>
+
